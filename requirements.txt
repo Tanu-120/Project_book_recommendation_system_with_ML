@@ -2,5 +2,4 @@ numpy==1.24.3
 Requests==2.31.0
 streamlit==1.27.0
 streamlit_lottie==0.0.5
-~treamlit==1.23.1
-~treamlit==1.27.0
+
